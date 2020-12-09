@@ -107,7 +107,6 @@ brew little-cms2
 brew lua
 brew luajit
 brew lzo
-brew mas
 brew memcached
 brew mercurial
 brew msgpack
@@ -213,10 +212,7 @@ cask macvim
 cask ngrok
 cask slack
 cask vagrant
-cask virtualbox
 cask xquartz
-
-tap argon/mas
 
 tap codeclimate/formulae
 
@@ -233,20 +229,9 @@ tap sanemat/font
 tap stripe/stripe-cli
 brew stripe
 
-# Other Homebrew packages
-brew python@2
-
 # App Store applications
-appstore 937984704 Amphetamine (5.0.3)
-appstore 865500966 feedly (1.1)
-appstore 682658836 GarageBand (10.3.4)
-appstore 408981434 iMovie (10.1.14)
-appstore 409183694 Keynote (9.2.1)
-appstore 926036361 LastPass (4.4.0)
-appstore 539883307 LINE (6.2.2)
-appstore 409203825 Numbers (6.2.1)
-appstore 409201541 Pages (8.2.1)
-appstore 568494494 Pocket (1.8.5)
-appstore 803453959 Slack (4.8.0)
-appstore 425424353 The Unarchiver (4.2.2)
-appstore 497799835 Xcode (11.3.1)
+#appstore 926036361 LastPass (4.4.0)
+#appstore 539883307 LINE (6.2.2)
+#appstore 568494494 Pocket (1.8.5)
+#appstore 803453959 Slack (4.8.0)
+#appstore 425424353 The Unarchiver (4.2.2)
