@@ -68,7 +68,6 @@ brew krb5
 brew kubectx
 brew kubernetes-cli
 brew lame
-brew lastpass-cli
 brew leptonica
 brew libass
 brew libassuan
