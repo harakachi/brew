@@ -9,6 +9,7 @@ brew autoconf
 brew automake
 brew awscli
 brew bdw-gc
+brew berkeley-db
 brew brotli
 brew byobu
 brew c-ares
@@ -34,6 +35,7 @@ brew frei0r
 brew fribidi
 brew gd
 brew gdbm
+brew gdk-pixbuf
 brew gettext
 brew ghostscript
 brew giflib
@@ -84,6 +86,8 @@ brew libmetalink
 brew libogg
 brew libomp
 brew libpng
+brew libpthread-stubs
+brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -101,14 +105,24 @@ brew libvidstab
 brew libvorbis
 brew libvpx
 brew libvterm
+brew libx11
+brew libxau
+brew libxcb
+brew libxdmcp
+brew libxext
 brew libxml2
+brew libxrender
 brew libyaml
 brew little-cms2
 brew lua
 brew luajit
+brew luajit-openresty
+brew luv
 brew lzo
+brew mas
 brew memcached
 brew mercurial
+brew mpdecimal
 brew msgpack
 brew mysql-client
 brew mysql@5.6
@@ -151,6 +165,7 @@ brew rav1e
 brew rbenv
 brew readline
 brew redis
+brew rename
 brew ripgrep
 brew rsyslog
 brew rtmpdump
@@ -166,6 +181,7 @@ brew speex
 brew sqlite
 brew srt
 brew stern
+brew tcl-tk
 brew telnet
 brew tesseract
 brew texi2html
@@ -183,10 +199,12 @@ brew wget
 brew x264
 brew x265
 brew xmlto
+brew xorgproto
 brew xvid
 brew xz
 brew yarn
 brew zeromq
+brew zimg
 brew zstd
 
 tap homebrew/bundle
@@ -194,15 +212,18 @@ tap homebrew/bundle
 tap homebrew/cask-versions
 
 tap homebrew/cask
+cask 1password
 cask alfred
 cask android-file-transfer
 cask android-studio
 cask appcleaner
 cask clipy
+cask cyberduck
 cask dropbox
 cask evernote
 cask firefox
 cask google-chrome
+cask google-drive
 cask google-drive-file-stream
 cask google-japanese-ime
 cask hyperswitch
@@ -214,6 +235,8 @@ cask slack
 cask vagrant
 cask xquartz
 
+tap argon/mas
+
 tap codeclimate/formulae
 
 tap heroku/brew
@@ -223,6 +246,7 @@ brew heroku-node
 tap jawshooah/nodenv
 
 tap rcmdnk/file
+brew brew-file
 
 tap sanemat/font
 
@@ -230,8 +254,11 @@ tap stripe/stripe-cli
 brew stripe
 
 # App Store applications
-#appstore 926036361 LastPass (4.4.0)
-#appstore 539883307 LINE (6.2.2)
-#appstore 568494494 Pocket (1.8.5)
-#appstore 803453959 Slack (4.8.0)
-#appstore 425424353 The Unarchiver (4.2.2)
+appstore 405843582 Alfred (1.2)
+appstore 937984704 Amphetamine (5.1.1)
+appstore 926036361 LastPass (4.4.0)
+appstore 539883307 LINE (6.5.1)
+appstore 568494494 Pocket (1.8.6)
+appstore 803453959 Slack (4.11.3)
+appstore 425424353 The Unarchiver (4.2.4)
+appstore 497799835 Xcode (12.2)
