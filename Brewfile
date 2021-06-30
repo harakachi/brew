@@ -68,6 +68,7 @@ brew krb5
 brew kubectx
 brew kubernetes-cli
 brew lame
+brew lastpass-cli
 brew leptonica
 brew libass
 brew libassuan
@@ -118,6 +119,7 @@ brew luajit
 brew luajit-openresty
 brew luv
 brew lzo
+brew m4
 brew mas
 brew memcached
 brew mercurial
@@ -255,7 +257,6 @@ brew stripe
 # App Store applications
 appstore 405843582 Alfred (1.2)
 appstore 937984704 Amphetamine (5.1.1)
-appstore 926036361 LastPass (4.4.0)
 appstore 539883307 LINE (6.5.1)
 appstore 568494494 Pocket (1.8.6)
 appstore 803453959 Slack (4.11.3)
