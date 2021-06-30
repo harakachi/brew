@@ -60,7 +60,9 @@ brew icu4c
 brew ilmbase
 brew imagemagick
 brew imagemagick@6
+brew imath
 brew jasper
+brew jbig2dec
 brew jemalloc
 brew jpeg
 brew jq
@@ -80,6 +82,7 @@ brew libevent
 brew libffi
 brew libgpg-error
 brew libheif
+brew libidn
 brew libidn2
 brew liblqr
 brew libmetalink
@@ -177,6 +180,7 @@ brew s-lang
 brew s3cmd
 brew sdl2
 brew shared-mime-info
+brew six
 brew snappy
 brew speex
 brew sqlite
