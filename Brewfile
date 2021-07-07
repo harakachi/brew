@@ -194,6 +194,7 @@ brew theora
 brew tmux
 brew trash
 brew tree
+brew tree-sitter
 brew unbound
 brew unibilium
 brew utf8proc
